@@ -1,7 +1,7 @@
 # solana-perps-sandbox
 
 Exploratory sandbox for app ideas built on Solana perpetual-futures protocols.
-Early stage: no code yet. See `IDEAS.md` for the idea backlog.
+Early stage: no code yet. Private notes and the idea backlog live in `internal/` (gitignored, local only).
 
 ## Working agreements
 - Prototype fast, but **never put private keys, seed phrases, or RPC API keys in the repo**.

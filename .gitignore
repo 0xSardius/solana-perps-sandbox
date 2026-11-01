@@ -6,3 +6,6 @@ id.json
 __pycache__/
 .venv/
 dist/
+
+# private notes/ideas (local only)
+internal/
