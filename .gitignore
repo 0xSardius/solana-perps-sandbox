@@ -1,0 +1,8 @@
+.env
+.env.*
+node_modules/
+*.json.key
+id.json
+__pycache__/
+.venv/
+dist/
